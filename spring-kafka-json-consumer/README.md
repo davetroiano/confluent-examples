@@ -6,8 +6,8 @@ This example shows how to use `spring-kafka`'s `JsonDeserializer` to deserialize
 
 ## Prerequisites
 
-Maven 3
-Confluent Cloud cluster
+- Maven 3
+- Confluent Cloud cluster
 
 ## Running
 
